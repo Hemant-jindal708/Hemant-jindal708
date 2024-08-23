@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm a passionate Game Developer with experience in designing and building engaging and interactive games. My expertise lies in creating immersive gameplay experiences using Unity and other game development tools. From brainstorming game ideas to coding mechanics and refining gameplay, I enjoy every step of the game development process.</p>
+<p align="left">Hi! I'm a passionate Game Developer with experience in designing and building engaging and interactive games. My expertise lies in creating immersive gameplay experiences using Unity and other game development tools. From brainstorming game ideas to coding mechanics and refining gameplay, I enjoy every step of the game development process.</p>
 
 ###
 
